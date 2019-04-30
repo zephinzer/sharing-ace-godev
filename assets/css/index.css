@@ -1,0 +1,36 @@
+.reveal section.profile table {
+  width: 100%;
+}
+
+.reveal section.profile table td:first-child {
+  width: 230px;
+}
+
+.reveal section.profile table td:nth-child(1) {
+  vertical-align: top;
+}
+
+.reveal section.profile img {
+  border-radius: 100%;
+  width: 230px;
+}
+
+.reveal section ul li {
+  font-size: 0.9em;
+}
+
+.reveal section.left {
+  margin: 0 1em;
+  text-align: left;
+}
+
+.reveal section blockquote {
+  background: transparent;
+  float: left;
+  width: 100%;
+}
+
+.reveal section code.lang-wrap {
+  word-wrap: break-word;
+  white-space: normal;
+}

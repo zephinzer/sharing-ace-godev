@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "start": "docker run -it -v \"$(pwd):/app/src\" --network host zephinzer/reveal-md"
+  }
+}
